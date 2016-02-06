@@ -53,3 +53,4 @@ $ git push heroku master
 
 #### Misc.
 [Awesome Elixir](https://github.com/h4cc/awesome-elixir).
+[ExUnit Cheatsheet](http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html).
